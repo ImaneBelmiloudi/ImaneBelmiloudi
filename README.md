@@ -4,6 +4,7 @@
 
 </div>
 
+# Hi, I'm Imane Belmiloudi 👋
 
 ## 🛠️ Technologies & Tools
 
@@ -33,7 +34,6 @@
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat&logo=openai&logoColor=white)
 
 ---
-# Hi, I'm Imane Belmiloudi 👋
 
 ### Web Developer | Big Data & AI Graduate | Aspiring Machine Learning Engineer
 
