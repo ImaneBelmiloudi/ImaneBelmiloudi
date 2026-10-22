@@ -50,22 +50,8 @@ I'm a web developer with a degree in **Big Data and Artificial Intelligence**, i
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Health Data Management System
-A web application designed to manage hospital information, medical records, appointments, and user roles.
-
-**Technologies:** PHP, JavaScript, Bootstrap, MySQL
-
 ### 👥 HR Management System
 A project focused on organizing and managing human resources information.
-
-**Technologies:** Add the technologies used in your project.
-
-### 🌐 MaâlemConnect
-A web project focused on connecting users with services and facilitating access to relevant information.
-
-**Technologies:** Add the technologies used in your project.
-
-> 📌 Project repositories and detailed descriptions will be added here as they become available.
 
 ---
 
