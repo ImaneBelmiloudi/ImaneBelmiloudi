@@ -4,20 +4,6 @@
 
 </div>
 
-# Hi, I'm Imane Belmiloudi 👋
-
-### Web Developer | Big Data & AI Graduate | Aspiring Machine Learning Engineer
-
-I'm a web developer with a degree in **Big Data and Artificial Intelligence**, interested in building practical applications and exploring how Machine Learning can solve real-world problems.
-
-
-- 🔭 **Currently working on:** Improving my Python skills and building practical projects.
-- 🌱 **Currently learning:** Python, Machine Learning, and AI fundamentals.
-- 💻 **Background:** Web Development, Big Data, and Artificial Intelligence.
-- 🎯 **Goal:** Build useful applications powered by data and AI.
-- 🤝 **Open to:** Junior Web Developer opportunities, internships, and opportunities to learn and contribute to AI projects.
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -45,6 +31,20 @@ I'm a web developer with a degree in **Big Data and Artificial Intelligence**, i
 ### Currently Exploring
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=scikitlearn&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat&logo=openai&logoColor=white)
+
+---
+# Hi, I'm Imane Belmiloudi 👋
+
+### Web Developer | Big Data & AI Graduate | Aspiring Machine Learning Engineer
+
+I'm a web developer with a degree in **Big Data and Artificial Intelligence**, interested in building practical applications and exploring how Machine Learning can solve real-world problems.
+
+
+- 🔭 **Currently working on:** Improving my Python skills and building practical projects.
+- 🌱 **Currently learning:** Python, Machine Learning, and AI fundamentals.
+- 💻 **Background:** Web Development, Big Data, and Artificial Intelligence.
+- 🎯 **Goal:** Build useful applications powered by data and AI.
+- 🤝 **Open to:** Junior Web Developer opportunities, internships, and opportunities to learn and contribute to AI projects.
 
 ---
 
